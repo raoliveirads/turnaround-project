@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/c9a9f9fb5f8b4bb3aaa3b5a71908c05d/artifacts
+end_time: 1755091431806
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: c9a9f9fb5f8b4bb3aaa3b5a71908c05d
+run_name: omniscient-mule-703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755091431674
+status: 4
+tags: []
+user_id: renanoliveira
