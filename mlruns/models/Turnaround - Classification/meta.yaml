@@ -1,0 +1,8 @@
+aliases: {}
+creation_timestamp: 1755088573611
+deployment_job_id: null
+deployment_job_state: null
+description: This model aims to understand the most critical processes in airport
+  operations tha impact the most on the turnaround time.
+last_updated_timestamp: 1755088666129
+name: Turnaround - Classification

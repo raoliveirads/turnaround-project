@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/2f82ecee3999498e9340e0abf20c1084/artifacts
+end_time: 1755090210755
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 2f82ecee3999498e9340e0abf20c1084
+run_name: capricious-skunk-975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755090210750
+status: 3
+tags: []
+user_id: renanoliveira

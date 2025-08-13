@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/a200882b699646238228a735b7e60d0f/artifacts
+end_time: 1755091459401
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: a200882b699646238228a735b7e60d0f
+run_name: selective-eel-753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755091459343
+status: 4
+tags: []
+user_id: renanoliveira

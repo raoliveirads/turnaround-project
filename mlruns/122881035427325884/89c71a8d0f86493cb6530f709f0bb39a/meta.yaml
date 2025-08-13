@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/89c71a8d0f86493cb6530f709f0bb39a/artifacts
+end_time: 1755091444850
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 89c71a8d0f86493cb6530f709f0bb39a
+run_name: rebellious-hare-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755091444808
+status: 4
+tags: []
+user_id: renanoliveira
