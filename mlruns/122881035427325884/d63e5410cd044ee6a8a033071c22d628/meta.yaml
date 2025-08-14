@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/d63e5410cd044ee6a8a033071c22d628/artifacts
+deleted_time: 1755198735335
+end_time: 1755198112018
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: d63e5410cd044ee6a8a033071c22d628
+run_name: adventurous-seal-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198109558
+status: 3
+tags: []
+user_id: renanoliveira

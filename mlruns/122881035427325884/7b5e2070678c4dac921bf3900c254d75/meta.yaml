@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/7b5e2070678c4dac921bf3900c254d75/artifacts
+deleted_time: 1755198735327
+end_time: 1755198671060
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: 7b5e2070678c4dac921bf3900c254d75
+run_name: fun-auk-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198669033
+status: 3
+tags: []
+user_id: renanoliveira

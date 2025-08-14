@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/5e060267b8e246b8afd8aa3238f21717/artifacts
+deleted_time: 1755198735323
+end_time: 1755198709730
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: 5e060267b8e246b8afd8aa3238f21717
+run_name: loud-toad-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198707861
+status: 3
+tags: []
+user_id: renanoliveira

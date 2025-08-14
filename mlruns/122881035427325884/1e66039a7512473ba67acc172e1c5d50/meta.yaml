@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/1e66039a7512473ba67acc172e1c5d50/artifacts
+deleted_time: 1755198735327
+end_time: 1755198574281
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: 1e66039a7512473ba67acc172e1c5d50
+run_name: overjoyed-cub-210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198572371
+status: 3
+tags: []
+user_id: renanoliveira

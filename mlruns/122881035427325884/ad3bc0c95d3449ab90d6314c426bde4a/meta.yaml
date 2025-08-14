@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/ad3bc0c95d3449ab90d6314c426bde4a/artifacts
+deleted_time: 1755198735333
+end_time: 1755198261279
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: ad3bc0c95d3449ab90d6314c426bde4a
+run_name: adventurous-lamb-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198259205
+status: 3
+tags: []
+user_id: renanoliveira

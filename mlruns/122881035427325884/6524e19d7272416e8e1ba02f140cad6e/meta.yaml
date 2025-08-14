@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/6524e19d7272416e8e1ba02f140cad6e/artifacts
+deleted_time: 1755198735334
+end_time: 1755198114231
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: 6524e19d7272416e8e1ba02f140cad6e
+run_name: serious-crow-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198112061
+status: 3
+tags: []
+user_id: renanoliveira

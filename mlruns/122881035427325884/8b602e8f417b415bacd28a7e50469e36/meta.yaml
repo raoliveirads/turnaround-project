@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/8b602e8f417b415bacd28a7e50469e36/artifacts
+end_time: 1755198741824
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 8b602e8f417b415bacd28a7e50469e36
+run_name: awesome-hog-384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198740095
+status: 3
+tags: []
+user_id: renanoliveira

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/e32d0c7c1128478db5b2d439fdaf0a6d/artifacts
+deleted_time: 1755198735322
 end_time: 1755196894341
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e32d0c7c1128478db5b2d439fdaf0a6d
 run_name: efficient-moose-418
 source_name: ''

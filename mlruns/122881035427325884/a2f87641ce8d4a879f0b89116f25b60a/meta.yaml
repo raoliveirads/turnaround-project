@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/a2f87641ce8d4a879f0b89116f25b60a/artifacts
+deleted_time: 1755198735333
+end_time: 1755198149637
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: a2f87641ce8d4a879f0b89116f25b60a
+run_name: trusting-lynx-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198147247
+status: 3
+tags: []
+user_id: renanoliveira

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/ae29d866c9a3498f861d98a75767a9cf/artifacts
+deleted_time: 1755198735329
+end_time: 1755198507171
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: ae29d866c9a3498f861d98a75767a9cf
+run_name: merciful-auk-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198505371
+status: 3
+tags: []
+user_id: renanoliveira

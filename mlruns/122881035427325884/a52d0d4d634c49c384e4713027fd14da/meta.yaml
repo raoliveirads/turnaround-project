@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/a52d0d4d634c49c384e4713027fd14da/artifacts
+end_time: 1755198745843
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: a52d0d4d634c49c384e4713027fd14da
+run_name: caring-crow-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198743984
+status: 3
+tags: []
+user_id: renanoliveira

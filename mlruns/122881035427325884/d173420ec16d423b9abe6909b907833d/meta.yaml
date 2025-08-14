@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/d173420ec16d423b9abe6909b907833d/artifacts
+deleted_time: 1755198735334
+end_time: 1755198116231
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: d173420ec16d423b9abe6909b907833d
+run_name: selective-kit-401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198114262
+status: 3
+tags: []
+user_id: renanoliveira

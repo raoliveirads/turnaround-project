@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/3d4199d6878e4049a21e8660cb6cd138/artifacts
+deleted_time: 1755198735329
+end_time: 1755198469090
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: 3d4199d6878e4049a21e8660cb6cd138
+run_name: luminous-owl-970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198467040
+status: 3
+tags: []
+user_id: renanoliveira

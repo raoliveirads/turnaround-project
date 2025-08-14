@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/c0334a5cc8ca4f0db7b106bfccb7859b/artifacts
+end_time: 1755198743955
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: c0334a5cc8ca4f0db7b106bfccb7859b
+run_name: bald-bat-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755198741857
+status: 3
+tags: []
+user_id: renanoliveira
