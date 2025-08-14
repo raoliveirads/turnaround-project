@@ -1,0 +1,45 @@
+artifact_path: mlflow-artifacts:/122881035427325884/models/m-14efeba1ced94147b6b025cc5b8f0f8e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-14efeba1ced94147b6b025cc5b8f0f8e
+model_size_bytes: 3188
+model_uuid: m-14efeba1ced94147b6b025cc5b8f0f8e
+prompts: null
+run_id: 698622c714564e44aaf892ea57e3c61f
+signature:
+  inputs: '[{"type": "double", "name": "tempo_para_corte_motor", "required": true},
+    {"type": "double", "name": "tempo_para_calco", "required": true}, {"type": "double",
+    "name": "tempo_para_ultimo_cone", "required": true}, {"type": "double", "name":
+    "tempo_descarregamento_bag", "required": true}, {"type": "double", "name": "tempo_para_acoplagem_finger",
+    "required": true}, {"type": "double", "name": "tempo_desembarque", "required":
+    true}, {"type": "double", "name": "tempo_limpeza", "required": true}, {"type":
+    "double", "name": "tempo_abastecimento", "required": true}, {"type": "double",
+    "name": "tempo_catering", "required": true}, {"type": "double", "name": "tempo_carregamento_bag",
+    "required": true}, {"type": "double", "name": "tempo_embarque", "required": true},
+    {"type": "double", "name": "tempo_para_fechamento_porta", "required": true}, {"type":
+    "double", "name": "tempo_para_desacoplamento_finger", "required": true}, {"type":
+    "double", "name": "tempo_para_inicio_pushback", "required": true}, {"type": "double",
+    "name": "tempo_pushback", "required": true}, {"type": "double", "name": "tempo_para_aeronave_liberada",
+    "required": true}, {"type": "long", "name": "tipo_aeronave_700", "required": true},
+    {"type": "long", "name": "tipo_aeronave_800", "required": true}, {"type": "long",
+    "name": "finger_remoto_FINGER", "required": true}, {"type": "long", "name": "finger_remoto_REMOTA",
+    "required": true}, {"type": "long", "name": "Inter / Dom_Dom\u00e9stico", "required":
+    true}, {"type": "long", "name": "Inter / Dom_Internacional", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-14 13:23:52.850280'

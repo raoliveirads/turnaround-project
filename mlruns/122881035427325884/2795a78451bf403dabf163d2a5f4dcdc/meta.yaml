@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/2795a78451bf403dabf163d2a5f4dcdc/artifacts
+end_time: 1755178186789
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 2795a78451bf403dabf163d2a5f4dcdc
+run_name: languid-fowl-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755178184608
+status: 3
+tags: []
+user_id: renanoliveira

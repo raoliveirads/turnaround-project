@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/3e7038d21c59491a8cf1a21947da352d/artifacts
+end_time: 1755178051415
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 3e7038d21c59491a8cf1a21947da352d
+run_name: dapper-owl-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755178049720
+status: 3
+tags: []
+user_id: renanoliveira

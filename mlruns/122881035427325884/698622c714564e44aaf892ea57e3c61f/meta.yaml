@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/698622c714564e44aaf892ea57e3c61f/artifacts
+end_time: 1755177834665
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 698622c714564e44aaf892ea57e3c61f
+run_name: bedecked-crab-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755177832748
+status: 3
+tags: []
+user_id: renanoliveira
