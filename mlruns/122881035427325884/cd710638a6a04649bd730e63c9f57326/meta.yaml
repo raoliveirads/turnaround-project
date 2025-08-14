@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/cd710638a6a04649bd730e63c9f57326/artifacts
+deleted_time: 1755196885366
 end_time: 1755090326815
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cd710638a6a04649bd730e63c9f57326
 run_name: loud-panda-646
 source_name: ''

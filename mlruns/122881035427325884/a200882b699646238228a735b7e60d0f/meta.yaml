@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/a200882b699646238228a735b7e60d0f/artifacts
+deleted_time: 1755196885363
 end_time: 1755091459401
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a200882b699646238228a735b7e60d0f
 run_name: selective-eel-753
 source_name: ''

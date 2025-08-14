@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/54fd1d13883648d7960d5c59a69c364a/artifacts
+deleted_time: 1755196885355
 end_time: 1755177990082
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 54fd1d13883648d7960d5c59a69c364a
 run_name: abundant-doe-359
 source_name: ''

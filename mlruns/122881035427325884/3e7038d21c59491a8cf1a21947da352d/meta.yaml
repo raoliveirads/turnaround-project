@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/3e7038d21c59491a8cf1a21947da352d/artifacts
+deleted_time: 1755196885346
 end_time: 1755178051415
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3e7038d21c59491a8cf1a21947da352d
 run_name: dapper-owl-814
 source_name: ''

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/f1d5286bf63b4dc18f46943d61d4d120/artifacts
+end_time: 1755196896511
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: f1d5286bf63b4dc18f46943d61d4d120
+run_name: fortunate-flea-682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196894372
+status: 3
+tags: []
+user_id: renanoliveira

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/b269981aabc143b89dc88e29b3ec4404/artifacts
+deleted_time: 1755196885345
+end_time: 1755196856343
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: b269981aabc143b89dc88e29b3ec4404
+run_name: skittish-goat-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196854641
+status: 3
+tags: []
+user_id: renanoliveira

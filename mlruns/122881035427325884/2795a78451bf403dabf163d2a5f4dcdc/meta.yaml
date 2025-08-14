@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/2795a78451bf403dabf163d2a5f4dcdc/artifacts
+deleted_time: 1755196885360
 end_time: 1755178186789
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2795a78451bf403dabf163d2a5f4dcdc
 run_name: languid-fowl-390
 source_name: ''

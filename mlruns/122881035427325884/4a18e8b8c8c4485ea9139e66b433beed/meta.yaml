@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/4a18e8b8c8c4485ea9139e66b433beed/artifacts
+deleted_time: 1755196885354
+end_time: 1755196858552
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: 4a18e8b8c8c4485ea9139e66b433beed
+run_name: big-ox-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196856379
+status: 3
+tags: []
+user_id: renanoliveira

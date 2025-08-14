@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/e32d0c7c1128478db5b2d439fdaf0a6d/artifacts
+end_time: 1755196894341
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: e32d0c7c1128478db5b2d439fdaf0a6d
+run_name: efficient-moose-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196892354
+status: 3
+tags: []
+user_id: renanoliveira

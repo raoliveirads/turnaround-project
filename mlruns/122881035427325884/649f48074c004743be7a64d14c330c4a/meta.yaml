@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/649f48074c004743be7a64d14c330c4a/artifacts
+deleted_time: 1755196885355
 end_time: 1755177837034
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 649f48074c004743be7a64d14c330c4a
 run_name: aged-bug-210
 source_name: ''

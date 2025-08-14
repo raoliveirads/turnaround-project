@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/187854d584ba4fa6b4364779b0471d1b/artifacts
+deleted_time: 1755196885345
 end_time: 1755177988032
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 187854d584ba4fa6b4364779b0471d1b
 run_name: melodic-bear-399
 source_name: ''

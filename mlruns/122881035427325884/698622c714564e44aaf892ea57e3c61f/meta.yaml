@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/698622c714564e44aaf892ea57e3c61f/artifacts
+deleted_time: 1755196885350
 end_time: 1755177834665
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 698622c714564e44aaf892ea57e3c61f
 run_name: bedecked-crab-891
 source_name: ''

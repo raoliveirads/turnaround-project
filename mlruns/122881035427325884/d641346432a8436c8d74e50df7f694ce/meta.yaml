@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/d641346432a8436c8d74e50df7f694ce/artifacts
+deleted_time: 1755196885357
+end_time: 1755196860516
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: d641346432a8436c8d74e50df7f694ce
+run_name: awesome-croc-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196858578
+status: 3
+tags: []
+user_id: renanoliveira
