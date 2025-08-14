@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/6ace322dbd0e4b2ba724b704825d0aec/artifacts
+end_time: 1755177343991
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 6ace322dbd0e4b2ba724b704825d0aec
+run_name: industrious-croc-358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755177343951
+status: 4
+tags: []
+user_id: renanoliveira

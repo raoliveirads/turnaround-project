@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/8402f4b370dc44bc858491cce17a7dcc/artifacts
+end_time: 1755177369466
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 8402f4b370dc44bc858491cce17a7dcc
+run_name: treasured-grub-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755177367201
+status: 3
+tags: []
+user_id: renanoliveira

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/6dc4f868555846fd8d8d06d9f2ec0074/artifacts
+end_time: 1755178184571
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 6dc4f868555846fd8d8d06d9f2ec0074
+run_name: likeable-bug-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755178182355
+status: 3
+tags: []
+user_id: renanoliveira

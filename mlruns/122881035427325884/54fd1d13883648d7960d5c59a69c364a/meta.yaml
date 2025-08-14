@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/54fd1d13883648d7960d5c59a69c364a/artifacts
+end_time: 1755177990082
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 54fd1d13883648d7960d5c59a69c364a
+run_name: abundant-doe-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755177988073
+status: 3
+tags: []
+user_id: renanoliveira

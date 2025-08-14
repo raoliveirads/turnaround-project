@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/8e339a78b11949c2b7ba581db88cece7/artifacts
+end_time: 1755177159252
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 8e339a78b11949c2b7ba581db88cece7
+run_name: resilient-goat-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755177156040
+status: 3
+tags: []
+user_id: renanoliveira
