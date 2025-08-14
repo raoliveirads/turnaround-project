@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/8402f4b370dc44bc858491cce17a7dcc/artifacts
+deleted_time: 1755196885362
 end_time: 1755177369466
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8402f4b370dc44bc858491cce17a7dcc
 run_name: treasured-grub-630
 source_name: ''

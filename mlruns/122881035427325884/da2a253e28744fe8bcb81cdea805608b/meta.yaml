@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/da2a253e28744fe8bcb81cdea805608b/artifacts
+deleted_time: 1755196885359
+end_time: 1755196465468
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: deleted
+run_id: da2a253e28744fe8bcb81cdea805608b
+run_name: wise-mule-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196463070
+status: 3
+tags: []
+user_id: renanoliveira

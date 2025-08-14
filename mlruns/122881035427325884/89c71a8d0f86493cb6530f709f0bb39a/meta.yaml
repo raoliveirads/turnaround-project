@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/89c71a8d0f86493cb6530f709f0bb39a/artifacts
+deleted_time: 1755196885365
 end_time: 1755091444850
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 89c71a8d0f86493cb6530f709f0bb39a
 run_name: rebellious-hare-287
 source_name: ''

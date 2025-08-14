@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/707bbfd5c9f84c35acf926dfc74fed93/artifacts
+end_time: 1755196898442
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 707bbfd5c9f84c35acf926dfc74fed93
+run_name: amusing-elk-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755196896538
+status: 3
+tags: []
+user_id: renanoliveira

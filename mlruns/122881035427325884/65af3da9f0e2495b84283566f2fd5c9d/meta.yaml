@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/65af3da9f0e2495b84283566f2fd5c9d/artifacts
+deleted_time: 1755196885350
 end_time: 1755091562133
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 65af3da9f0e2495b84283566f2fd5c9d
 run_name: amusing-hound-821
 source_name: ''

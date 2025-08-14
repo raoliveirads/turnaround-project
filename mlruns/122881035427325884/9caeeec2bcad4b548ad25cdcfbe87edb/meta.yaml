@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/9caeeec2bcad4b548ad25cdcfbe87edb/artifacts
+deleted_time: 1755196885367
 end_time: 1755090323675
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9caeeec2bcad4b548ad25cdcfbe87edb
 run_name: nebulous-dove-483
 source_name: ''

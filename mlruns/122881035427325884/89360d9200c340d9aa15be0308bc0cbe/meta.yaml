@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/89360d9200c340d9aa15be0308bc0cbe/artifacts
+deleted_time: 1755196885345
 end_time: 1755091490236
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 89360d9200c340d9aa15be0308bc0cbe
 run_name: gregarious-perch-835
 source_name: ''

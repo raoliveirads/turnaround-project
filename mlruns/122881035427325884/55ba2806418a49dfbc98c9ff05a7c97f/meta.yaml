@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/55ba2806418a49dfbc98c9ff05a7c97f/artifacts
+deleted_time: 1755196885352
 end_time: 1755090752319
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 55ba2806418a49dfbc98c9ff05a7c97f
 run_name: sincere-squid-562
 source_name: ''

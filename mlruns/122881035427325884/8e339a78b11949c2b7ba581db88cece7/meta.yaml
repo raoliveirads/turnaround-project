@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/8e339a78b11949c2b7ba581db88cece7/artifacts
+deleted_time: 1755196885363
 end_time: 1755177159252
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8e339a78b11949c2b7ba581db88cece7
 run_name: resilient-goat-482
 source_name: ''

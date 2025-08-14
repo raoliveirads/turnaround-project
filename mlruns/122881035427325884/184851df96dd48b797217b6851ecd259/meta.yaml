@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/122881035427325884/184851df96dd48b797217b6851ecd259/artifacts
+deleted_time: 1755196885352
 end_time: 1755091418949
 entry_point_name: ''
 experiment_id: '122881035427325884'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 184851df96dd48b797217b6851ecd259
 run_name: blushing-mink-845
 source_name: ''
