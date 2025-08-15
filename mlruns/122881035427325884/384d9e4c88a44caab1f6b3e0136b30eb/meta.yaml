@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/384d9e4c88a44caab1f6b3e0136b30eb/artifacts
+end_time: 1755267626007
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 384d9e4c88a44caab1f6b3e0136b30eb
+run_name: traveling-snipe-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755267624070
+status: 3
+tags: []
+user_id: renanoliveira

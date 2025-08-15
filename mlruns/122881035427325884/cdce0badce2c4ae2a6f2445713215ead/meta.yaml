@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/cdce0badce2c4ae2a6f2445713215ead/artifacts
+end_time: 1755267178197
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: cdce0badce2c4ae2a6f2445713215ead
+run_name: bright-elk-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755267176092
+status: 3
+tags: []
+user_id: renanoliveira

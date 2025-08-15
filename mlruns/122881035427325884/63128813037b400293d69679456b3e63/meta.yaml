@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/63128813037b400293d69679456b3e63/artifacts
+end_time: 1755267254562
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 63128813037b400293d69679456b3e63
+run_name: magnificent-stork-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755267252334
+status: 3
+tags: []
+user_id: renanoliveira

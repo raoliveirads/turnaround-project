@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/ffe9beb539c8478080e9be0beda58d89/artifacts
+end_time: 1755267258477
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: ffe9beb539c8478080e9be0beda58d89
+run_name: calm-stoat-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755267256623
+status: 3
+tags: []
+user_id: renanoliveira

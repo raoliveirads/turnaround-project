@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/d2ab5d55cf944eee84c4108810d7563a/artifacts
+end_time: 1755267176055
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: d2ab5d55cf944eee84c4108810d7563a
+run_name: monumental-doe-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755267172970
+status: 3
+tags: []
+user_id: renanoliveira

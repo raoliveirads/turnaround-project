@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/1e2614c2b846491b872a25b5261cc850/artifacts
+end_time: 1755267629806
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 1e2614c2b846491b872a25b5261cc850
+run_name: ambitious-ant-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755267628005
+status: 3
+tags: []
+user_id: renanoliveira
