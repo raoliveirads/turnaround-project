@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/61ead7bcdc9b491e83dd26a26a988245/artifacts
+end_time: 1755527027415
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: 61ead7bcdc9b491e83dd26a26a988245
+run_name: silent-deer-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755527025335
+status: 3
+tags: []
+user_id: renanoliveira

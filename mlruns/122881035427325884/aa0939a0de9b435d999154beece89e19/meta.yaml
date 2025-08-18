@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/aa0939a0de9b435d999154beece89e19/artifacts
+end_time: 1755527025308
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: aa0939a0de9b435d999154beece89e19
+run_name: chill-koi-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755527022094
+status: 3
+tags: []
+user_id: renanoliveira

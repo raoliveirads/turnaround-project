@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/122881035427325884/c13e5dcd7c9140419ea95db35fd2ab8a/artifacts
+end_time: 1755527029368
+entry_point_name: ''
+experiment_id: '122881035427325884'
+lifecycle_stage: active
+run_id: c13e5dcd7c9140419ea95db35fd2ab8a
+run_name: painted-gnu-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755527027431
+status: 3
+tags: []
+user_id: renanoliveira
